@@ -4,7 +4,6 @@ I'm a passionate software developer with a love for technology and open-source p
 
 ## 🌱 What I'm Currently Working On
 - Exploring the latest in AI and machine learning.
-- Contributing to open-source projects in my spare time.
 - Building side projects to improve my skills and have fun.
 
 ## 💻 Technologies & Tools
