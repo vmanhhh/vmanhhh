@@ -13,7 +13,7 @@ I’m a passionate Front-End Developer with a strong foundation in JavaScript, T
 
 ## 📫 How to Reach Me
 - Email: tv.manh0706@gmail.com
-- LinkedIn: [linkedin.com/in/vmanhhh](https://www.linkedin.com/in/vmanhhh)
+- LinkedIn: [linkedin.com/in/manh-tran-van/](https://www.linkedin.com/in/manh-tran-van/)
 
 <!---
 ## 📈 GitHub Stats
