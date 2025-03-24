@@ -1,15 +1,15 @@
 # Hi there, I'm Van Manh 👋
 
-I'm a passionate software developer with a love for technology and open-source projects. I enjoy learning new things, solving problems, and building innovative solutions.
+I’m a passionate Front-End Developer with a strong foundation in JavaScript, TypeScript, and React. I love exploring new technologies, and solving complex problems.
 
 ## 🌱 What I'm Currently Working On
-- Exploring the latest in AI and machine learning.
-- Building side projects to improve my skills and have fun.
+- Enhancing my skills in React, Next.js, and UI/UX development.
+- Building personal projects to apply new concepts in real-world applications.
 
 ## 💻 Technologies & Tools
 - Languages: JavaScript, TypeScript, C++, Python,...
-- Frameworks: React, Node.js,
-- Tools: Git, Docker
+- Frameworks: React, Next.js, Node.js
+- Tools: Git, Figma
 
 ## 📫 How to Reach Me
 - Email: tv.manh0706@gmail.com
